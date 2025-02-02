@@ -1,0 +1,6 @@
+my_app.sock
+__pycache__/
+celerybeat-schedule.db
+.env
+.git/
+wsgi.py
